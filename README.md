@@ -1,7 +1,7 @@
 # EntityFramework
 Uso e implementación de Entity Framework con C#. con un modelo Persona Servicio 
 
-Clona a descraga el repositorio.
+Clona o descraga el repositorio.
 Para cambiar la ruta de la conexion a la base de datos, ve a la configuracion en appsettings.json y coloca en la seccion ConnectionStrings en 
 Data Source el nombre de tu servidor y agrega las configuraciones necesaria segun tus necesidades.
 
